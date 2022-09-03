@@ -15,3 +15,5 @@ Make an account at [Push](https://push.techulus.com) and get the `API_KEY`. You'
 Log into your account on the Push mobile app.
 
 In the repository page, go under `Settings` -> `Secrets` -> `Actions` -> `New Repository Secret` -> Name: `PUSH_API_KEY` and value the once that you previously copied.
+
+why you want stop my CI, lmao, been away on this repo for a while now, back in a min.
